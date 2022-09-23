@@ -1,0 +1,1 @@
+# hackarton-zacheta-dla-sztuki
