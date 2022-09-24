@@ -11,6 +11,19 @@
     margin-top: 116px;
     padding-bottom: 55px;
 
+    @media (min-width: 1190px) {
+        width: 100%;
+      }
+      @media (max-width: 768px) {
+        font-size: 1.3rem;
+        width: 80%;
+        margin-top:0;
+      }
+      @media (max-width: 450px) {
+        font-size: 1.1rem;
+        width: 80vw;
+      }
+
     h2 {
         margin-top: 40px;
         font-weight: 700;
@@ -138,3 +151,4 @@
         }
     }
 }
+

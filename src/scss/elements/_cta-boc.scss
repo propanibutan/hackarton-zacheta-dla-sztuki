@@ -39,5 +39,9 @@
         padding: 13px, 16px;
         border: none;
         border-radius: 4px;
+        @media (min-width: 1190px) {
+            font-size:1rem;
+            
+          }
     }
 }
