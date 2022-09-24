@@ -44,6 +44,7 @@ const q = {
     const submitForm = (event) => {
         event.preventDefault();
           const query = event.target.value;
+         console.log(query)
         sendRequest();
     }
 
