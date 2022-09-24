@@ -1,0 +1,25 @@
+@import 'generic/reset';
+@import 'elements/navigation';
+@import 'settings/colors';
+@import 'settings/fonts';
+@import 'elements/home-header';
+@import 'elements/collections';
+@import 'elements/cta';
+@import 'elements/cta-boc';
+@import 'elements/footer';
+
+body {
+    font-family: $font-base;
+    color:black;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    a:hover, input:hover, button:hover, select:hover,
+            a:focus, input:focus, button:focus, select:focus {
+              font-weight: bold;
+            }
+}

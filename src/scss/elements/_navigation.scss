@@ -1,0 +1,105 @@
+@import "../settings/colors.scss";
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.social-navigation {
+    background-color: $color-coral;
+    height: 5rem;
+    padding: 0 15rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.social-search {
+    display: flex;
+    align-content: center;
+}
+
+.input-social {
+    border: none;
+    outline: none;
+    font-size: 1.0625rem;
+    line-height: 1.5rem;
+    height: 48px;
+    width: 280px;
+    background-color: white;
+}
+
+.magnifier {
+    color: #40434D;
+    background-color: white;
+    width: 18px;
+    height: 24px;
+    padding: 13px;
+}
+
+.icons-social {
+    margin-left: 24px;
+}
+
+.navigation-bar {
+    background-color: $color-lagoon;
+    height: 7.875rem;
+    padding: 0 15rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    h1 {
+        font-weight: 700;
+        font-size: 42px;
+        width: 220px;
+        text-align: center;
+    }
+}
+
+.navigation-links {
+    display: flex;
+    width: 710px;
+    justify-content: center;
+    gap: 90px;
+
+    a {
+        text-decoration: none;
+        color: black;
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 32px;
+
+    }
+}
+.navigation-end {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 320px;
+    gap:25px;
+}
+.icon-Aa {
+    display: flex;
+    background: none;
+    border: none;
+}
+
+.language-select{
+    width: 70px;
+    height: 48px;
+    padding: 5px;
+    border-radius: 4px ;
+}
+
+.login-button {
+    width: 179px;
+    height: 48px;
+    border: none;
+    border-radius: 4px;
+    padding: 13px, 16px, 12px, 16px;
+    color: white;
+    background-color: $color-button-grey;
+}

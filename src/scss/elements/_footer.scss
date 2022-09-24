@@ -1,0 +1,30 @@
+@import "../settings/colors.scss";
+
+.footer {
+    
+    
+    background-color: #DFE2E8;
+    height: 104px;
+    display: flex;
+    
+    
+    margin-top: 206px;
+    
+    .container {
+        width: 100vw;
+        display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15rem;
+    }
+
+    h2 {
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 41.6px;
+        width: 180px;
+        text-align: center;
+    }
+}
+
