@@ -31,7 +31,7 @@ export default function HomeCollections() {
         {collections.map(({img, title, alt, href}, i) => {
         return (<li key={i} className='collections-box' aria-label="przycisk zobacz kolekcję">
           <a href={href}>
-            <img src={img} aria-description={alt} className='collections-box-img'/>
+            <img src={img} alt={alt} className='collections-box-img'/>
           <h4>{title}</h4>
           </a>
           

@@ -3,7 +3,7 @@
 export default function HomeCTABox({img, alt, descr, title}) {
   return (
     <div className="box-container">
-        <img src={img} aria-description={alt} className='box-img'/>
+        <img src={img} className='box-img' alt={alt}}/>
         <div className="descr-box">
             <h3>{title}</h3>
         <p>{descr}</p>
