@@ -19,7 +19,7 @@ The main objective is to prototype one of two potential online tools based on th
 ● An online tool for users of the Encouragement website, with a particular focus on people with disabilities, that will facilitate friendly and easy exploration of the digital art collection in a way that meets the particular needs of people with disabilities. This tool could use solutions such as audiodescription, alternative descriptions or translation of films into Polish Sign Language, among others."
 
 ### Who organize this event?
-[Centrum Cyfrowe Foundation](https://centrumcyfrowe.pl/en/homepage/) | [Zachęta – National Gallery of Art](https://zacheta.art.pl/en/?setlang=1) | [Mentors4Starters](https://mentors4starters.pl/) | [Generatora Pomysłów](https://generatorpomyslow.pl/)
+[Centrum Cyfrowe Foundation](https://centrumcyfrowe.pl/en/homepage/) | [Zachęta – National Gallery of Art](https://zacheta.art.pl/en/?setlang=1) | [Mentors4Starters](https://mentors4starters.pl/) | [Generator Pomysłów](https://generatorpomyslow.pl/)
 
 ### Project license
 [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [GNU Affero General Public License, version 3](https://www.gnu.org/licenses/agpl-3.0.en.html)
