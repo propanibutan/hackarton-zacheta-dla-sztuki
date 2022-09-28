@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# NA ZACHĘTĘ
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Project deploy:** https://zacheta-hackarton.netlify.app/
 
-## Available Scripts
+**Install:** 1.Download repo. 2.In console: "npm install". 3.Then "npm run build". 4.Then "npm start". Voila!
 
-In the project directory, you can run:
+>This site is in polish language and it's project for challenge in [Hack(art)hon 2022](https://hackarthon.pl/). 
 
-### `npm start`
+-----------------------------------------------------------------
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About Hack(art)hon 2022
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A sprint-like design event in developing educational open source tools for one of the largest cultural institutions in Poland – [Zachęta](https://zacheta.art.pl/en/?setlang=1) – National Gallery of Art.
 
-### `npm test`
+The main objective is to prototype one of two potential online tools based on the online collections:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+● An online tool aimed at teachers, using the Zachęta collection to develop students’ interest in art, outside the framework of the school curriculum. It should help to encourage students to explore digital artefacts on their own, discovering new art forms and engaging with them in creative ways.
 
-### `npm run build`
+● An online tool for users of the Encouragement website, with a particular focus on people with disabilities, that will facilitate friendly and easy exploration of the digital art collection in a way that meets the particular needs of people with disabilities. This tool could use solutions such as audiodescription, alternative descriptions or translation of films into Polish Sign Language, among others.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Who organize this event?
+[Centrum Cyfrowe Foundation](https://centrumcyfrowe.pl/en/homepage/) | [Zachęta – National Gallery of Art](https://zacheta.art.pl/en/?setlang=1) | [Mentors4Starters](https://mentors4starters.pl/) | [Generatora Pomysłów](https://generatorpomyslow.pl/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Project license
+[Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [GNU Affero General Public License, version 3](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-----------------------------------------------------------------
 
-### `npm run eject`
+## About project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Together with my team EduDepth (**Arek Rataj**, **Bartłomiej Dzięgiel**, **Joanna Florczak**, **Joanna Jachowicz**, **Justyna Rawińska**) we build solution for education. Our goal was to make students more emotionally involved in lessons, to make art more appealing for them, to help teachers get access to high quality art reproductions in short time. 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You can check our prototype [here](https://drive.google.com/file/d/1INO2CvB2Oz1WppX7-TFq4Mt_iyq3oys4/view?usp=sharing).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### About page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This is landing page with ability to search for images in a search engine. 
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I use for this:
+- back-end prepared by Arek Rataj,
+- **React** (CRA)
+- **Sass**
