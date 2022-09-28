@@ -37,6 +37,6 @@ You can check our prototype [here](https://drive.google.com/file/d/1INO2CvB2Oz1W
 This is landing page with ability to search for images in a search engine. 
 
 I use for this:
-- back-end using [API Otwarta Zachęta](https://zacheta.art.pl/pl/popc),
+- back-end using [API Otwarta Zachęta](https://zacheta.art.pl/pl/popc)
 - **React** (CRA)
 - **Sass**
